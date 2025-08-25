@@ -29,6 +29,5 @@
    - Random Forest
    - Gradient Boosting (LightGBM, CatBoost)
 
-4. Оценки качества
-   -RMSE
+4. Оценка качества: RMSE
     
